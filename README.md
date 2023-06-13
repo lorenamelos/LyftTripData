@@ -1,4 +1,5 @@
 # LyftTripData
+SQL project.
 
 Exercise from CodeCademy Data Science Path. 
 
